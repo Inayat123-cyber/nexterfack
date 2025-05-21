@@ -1,4 +1,5 @@
-# nexterfack# 🔍 NexterFack – Elite Dorking Tool for Bug Bounty & OSINT 🔐
+# nexterfack# 
+🔍 NexterFack – Elite Dorking Tool for Bug Bounty & OSINT 🔐
 
 **NexterFack** is a custom-built Bash script designed by **Inayat Hussain** to generate highly effective **Google** and **GitHub dorks** for reconnaissance, OSINT, and ethical hacking. It empowers bug bounty hunters and penetration testers to find exposed files, sensitive information, admin panels, and developer secrets across the web.
 
